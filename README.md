@@ -5,5 +5,5 @@
 - Jayant Taneja
 - Ridham Bhat
 - Sayantanu Dey
-- Hridyansh Pareek
+- Hridyansh Paree
 - Varitant Arora
